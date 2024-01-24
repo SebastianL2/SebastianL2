@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://portfolio-v2-beta-sage.vercel.app/)
 
 ### Languages and Technologies
 <div align="left">
