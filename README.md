@@ -1,5 +1,16 @@
-### Hi there 👋
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://portfolio-v2-beta-sage.vercel.app/)
+# Hola, soy [Tu Nombre]
+
+## Desarrollador Web Junior Fullstack 🚀
+
+¡Bienvenido ! Soy un desarrollador web junior con habilidades tanto en el front-end como en el back-end. Mi enfoque se centra en crear soluciones web interactivas y eficientes.
+
+### Filosofía
+
+Me encanta aprender constantemente y enfrentar nuevos desafíos. Creo en la importancia de la colaboración y la mejora continua. Busco oportunidades para aplicar y ampliar mis habilidades en entornos dinámicos.
+
+### [¡Echa un vistazo a mi portfolio!](https://portfolio-v2-beta-sage.vercel.app/)
+
+¡Conéctemos y hagamos cosas increíbles juntos! 😊
 
 ### Languages and Technologies
 <div align="left">
