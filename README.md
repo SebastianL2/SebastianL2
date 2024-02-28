@@ -1,17 +1,17 @@
-# Hola, soy Sebastian Cely Peña
+# Hello, I am Sebastian Cely Peña.
 
-## Desarrollador Web Junior Fullstack 🚀
+## Junior Fullstack Web Developer 🚀
 
-¡Bienvenido ! Soy un desarrollador web junior con habilidades tanto en el front-end como en el back-end. Mi enfoque se centra en crear soluciones web interactivas y eficientes.
+Welcome! I'm a junior web developer with skills in both front-end and back-end development. My focus is on creating interactive and efficient web solutions.
 
-### Filosofía
+### Philosophy
 
-Me encanta aprender constantemente y enfrentar nuevos desafíos. Creo en la importancia de la colaboración y la mejora continua. Busco oportunidades para aplicar y ampliar mis habilidades en entornos dinámicos.
+I love constantly learning and taking on new challenges. I believe in the importance of collaboration and continuous improvement. I seek opportunities to apply and expand my skills in dynamic environments
 
-### [¡Echa un vistazo a mi portfolio!](https://portfolio-v2-beta-sage.vercel.app/)
+### [¡Take a look at my portfolio!](https://portfolio-v2-beta-sage.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://portfolio-v2-beta-sage.vercel.app/)
 
-¡Conéctemos y hagamos cosas increíbles juntos! 😊
+Let's connect and create amazing things together! 😊
 
 ### Languages and Technologies
 <div align="left">
